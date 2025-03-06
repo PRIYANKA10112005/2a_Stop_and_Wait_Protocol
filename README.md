@@ -1,6 +1,14 @@
 # 2a_Stop_and_Wait_Protocol
 ##  NAME : PRIYANKA P
 ## REGISTER NUMBER : 212224230212
+
+
+
+
+
+
+
+.
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
@@ -67,8 +75,11 @@ while True:
 ```
 ## OUTPUT
 ### client:
-![Screenshot 2025-03-06 105136](https://github.com/user-attachments/assets/d70a198f-5602-426b-988e-7a3875cb0c71)
+![Screenshot 2025-03-06 105136](https://github.com/user-attachments/assets/cfb0f3bf-1c99-46cd-8bad-31104fcc9734)
+
 ### server:
-![image](https://github.com/user-attachments/assets/399f1c4b-2435-4f4d-a8f8-b37da531f52d)
+![Screenshot 2025-03-06 105308](https://github.com/user-attachments/assets/ff127448-bb6b-431a-a580-d2f10409bb51)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
+
